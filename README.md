@@ -9,10 +9,10 @@
 ### Business Request & User Stories
 - Review the provided sample business request, demand overview, and completed user stories to gain insights into the problem we aim to address through data analysis and our proposed solution.
 
-### Clean the Data using T-SQL
-- Understand the difference between FACT tables & Dimension tables.
-- Identify which tables in the data are of interest with the help of the Business Request form.
-- Choose which columns are of interest to export by preparing and transforming these columns in SQL using concepts such as: renaming columns, combining columns, commenting in SQL script, formatting of SQL statements, WHERE clause, ORDER BY, LEFT JOIN, CASE() function and ISNULL() function. 
+###Data Cleaning with T-SQL
+- Gain insights into the distinction between FACT tables and Dimension tables.
+- Determine the tables within the dataset that align with the objectives outlined in the Business Request form.
+- Select the relevant columns for export by applying SQL techniques including column renaming, merging, SQL script annotations, statement formatting, WHERE clauses, ORDER BY clauses, LEFT JOIN operations, CASE() functions, and ISNULL() functions.
 
 ### Create Dashboard in Power BI
 - Load Data

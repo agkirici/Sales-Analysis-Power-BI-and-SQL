@@ -9,7 +9,7 @@
 ### Business Request & User Stories
 - Review the provided sample business request, demand overview, and completed user stories to gain insights into the problem we aim to address through data analysis and our proposed solution.
 
-###Data Cleaning with T-SQL
+### Data Cleaning with T-SQL
 - Gain insights into the distinction between FACT tables and Dimension tables.
 - Determine the tables within the dataset that align with the objectives outlined in the Business Request form.
 - Select the relevant columns for export by applying SQL techniques including column renaming, merging, SQL script annotations, statement formatting, WHERE clauses, ORDER BY clauses, LEFT JOIN operations, CASE() functions, and ISNULL() functions.

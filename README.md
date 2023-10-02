@@ -7,12 +7,12 @@
 - To update the Data Warehouse data, you can use the provided [sql script.](https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql)
 
 ### Business Request & User Stories
-- Review the provided sample business request, demand overview, and completed user stories to gain insights into the problem we aim to address through data analysis and our proposed solution.
+- Examine the provided sample business request, demand overview, and completed user stories to understand the problem we aim to address through data analysis and our proposed solution.
 
 ### Data Cleaning with T-SQL
-- Gain insights into the distinction between FACT tables and Dimension tables.
-- Determine the tables within the dataset that align with the objectives outlined in the Business Request form.
-- Select the relevant columns for export by applying SQL techniques including column renaming, merging, SQL script annotations, statement formatting, WHERE clauses, ORDER BY clauses, LEFT JOIN operations, CASE() functions, and ISNULL() functions.
+- Distinguish between FACT tables and Dimension tables to gain a better understanding.
+- Identify the tables within the dataset that align with the objectives outlined in the Business Request form.
+- Choose the relevant columns for export using SQL techniques, such as column renaming, merging, SQL script annotations, statement formatting, WHERE clauses, ORDER BY clauses, LEFT JOIN operations, CASE() functions, and ISNULL() functions.
 
 ### Create Dashboard in Power BI
 - Load Data

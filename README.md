@@ -1,10 +1,10 @@
 # SalesAnalysis_SQL_PowerBI
 
 ### Setup
-- This project requires SQL Server (SQL Express), Power BI Desktop
-- We will work with backup Data Warehouse (DW) data and Lightweight (LT) data. Obtain data and restore following instructions from [here.](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
-- Conduct a comparative analysis of structured and unstructured data by examining Data Warehouse (DW) information. Our primary focus will be on working with data from the Data Warehouse."
-- Update Data Warehouse data using [sql script.](https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql)
+- This project necessitates the use of SQL Server (specifically, SQL Express) and Power BI Desktop.
+- We will be utilizing data from the Backup Data Warehouse (DW) and Lightweight (LT) data sources. To obtain and restore the data, please follow the instructions provided [here.](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
+- The primary objective of this project is to conduct a comparative analysis of structured and unstructured data. Our focus will be on examining information from the Data Warehouse (DW).
+- To update the Data Warehouse data, you can use the provided [sql script.](https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql)
 
 ### Business Request & User Stories
 - Review the provided sample business request, demand overview, and completed user stories to gain insights into the problem we aim to address through data analysis and our proposed solution.
